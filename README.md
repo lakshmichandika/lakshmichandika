@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning and data science related projects
 - 📫 How to reach me @lakshmichandika
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: "True mastery isn't a destination; it's a lifelong journey fueled by curiosity, passion, and a relentless pursuit of knowledge"
 
 <!---
